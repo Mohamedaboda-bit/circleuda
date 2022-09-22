@@ -17,6 +17,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy":"icacls  ./bin/deploy.sh /q  && bash ./bin/deploy.sh"
+    "deploy":"icacls  ./bin/deploy.sh /q  "
   }
 }
