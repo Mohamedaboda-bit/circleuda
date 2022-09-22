@@ -1,1 +1,1 @@
-bash -c "aws s3 cp --recursive --acl public-read ./build s3://momosx/"
+aws s3 cp --recursive --acl public-read ./build s3://momosx/
